@@ -1,0 +1,4 @@
+-git branch branch name - this command is used to create new branch
+-git branch - this command show all the branches created
+-git checkout branch name - this command is used to switch branches
+-
